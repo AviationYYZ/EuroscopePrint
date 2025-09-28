@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StripPrinter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afe470b7216a7c9246a6cec282daa60f5dd2ac67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57f7733266542bb2bd7386d8fbbbf9265c8d5846")]
 [assembly: System.Reflection.AssemblyProductAttribute("StripPrinter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StripPrinter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

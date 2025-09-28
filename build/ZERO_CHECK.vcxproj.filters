@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Charlie Yablon\Documents\EuroscopePrint\build\CMakeFiles\39ed1c35845a3fe1e056cfde6ec4c172\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A63D2757-606B-3C85-82C2-E00CE1FB32FD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

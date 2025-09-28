@@ -1,0 +1,3 @@
+C:/Users/Charlie Yablon/Documents/EuroscopePrint/build/CMakeFiles/EuroScopeStripPrinterPlugin.dir
+C:/Users/Charlie Yablon/Documents/EuroscopePrint/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Charlie Yablon/Documents/EuroscopePrint/build/CMakeFiles/ZERO_CHECK.dir

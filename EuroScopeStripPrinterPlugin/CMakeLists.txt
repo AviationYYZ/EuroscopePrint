@@ -12,6 +12,11 @@ endif()
 
 add_library(EuroScopeStripPrinterPlugin SHARED EuroScopeStripPrinterPlugin.cpp EuroScopeStripPrinterPlugin.def)
 
+target_link_libraries(EuroScopeStripPrinterPlugin
+  PRIVATE
+    "C:/Program Files/EuroscopeSDK/EuroScopePlugInDll.lib"
+)
+
 target_include_directories(EuroScopeStripPrinterPlugin PRIVATE "${EUROSCOPE_SDK_DIR}")
 target_compile_features(EuroScopeStripPrinterPlugin PRIVATE cxx_std_17)
 
