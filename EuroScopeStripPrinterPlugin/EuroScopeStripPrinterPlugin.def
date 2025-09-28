@@ -1,4 +1,0 @@
-LIBRARY "EuroScopeStripPrinterPlugin"
-EXPORTS
-EuroScopePlugInInit
-EuroScopePlugInExit
