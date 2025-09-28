@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6e0CF1zGzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charlie Yablon\\Documents\\EuroscopePrint\\StripPrinter\\StripPrinter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charlie Yablon\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Charlie Yablon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Charlie Yablon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\Charlie Yablon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

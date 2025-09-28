@@ -1,0 +1,15 @@
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\bin\Release\net8.0-windows\StripPrinter.exe
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\bin\Release\net8.0-windows\StripPrinter.deps.json
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\bin\Release\net8.0-windows\StripPrinter.runtimeconfig.json
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\bin\Release\net8.0-windows\StripPrinter.dll
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\bin\Release\net8.0-windows\StripPrinter.pdb
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.AssemblyInfoInputs.cache
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.AssemblyInfo.cs
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.sourcelink.json
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.dll
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\refint\StripPrinter.dll
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.pdb
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\StripPrinter.genruntimeconfig.cache
+C:\Users\Charlie Yablon\Documents\EuroscopePrint\StripPrinter\obj\Release\net8.0-windows\ref\StripPrinter.dll
