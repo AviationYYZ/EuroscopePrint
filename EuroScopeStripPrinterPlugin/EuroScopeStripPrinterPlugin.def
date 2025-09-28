@@ -1,5 +1,4 @@
-
 LIBRARY "EuroScopeStripPrinterPlugin"
 EXPORTS
-    EuroScopePlugInInit
-    EuroScopePlugInExit
+EuroScopePlugInInit
+EuroScopePlugInExit
